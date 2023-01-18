@@ -28,7 +28,7 @@ Welcome to THE online quiz app! To start the quiz, please select the start butto
 
 ## Screenshot 
 
-<!--![Alt text](Picture-goes-here)-->
+![Screenshot](./assets/images/Screenshot.PNG)
 
 # Link to Deployed Site
 "Placeholder"
