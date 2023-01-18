@@ -61,7 +61,7 @@ function questionClick() {
   // verify if correct answer selected
   if (this.value !== questions[currentQuestionIndex].answer) {
     // deducts time if incorrect
-    time -= 7;
+    time -= 15;
 
     if (time < 0) {
       time = 0;
