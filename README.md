@@ -31,5 +31,6 @@ Welcome to THE online quiz app! To start the quiz, please select the start butto
 ![Screenshot](./assets/images/Screenshot.PNG)
 
 # Link to Deployed Site
-"Placeholder"
+
+https://christinaecb.github.io/Coding-quiz-challenge/
 
